@@ -1,4 +1,4 @@
-# Cross-Lingual Event Detection -  [Demo](cled-demo.vercel.app)
+# Cross-Lingual Event Detection -  [Demo](https://cled-demo.vercel.app)
 
 > **Multilingual event detection across 168 event types using XLM-RoBERTa, trained on the MAVEN dataset translated into Hindi, Malayalam, and French via Meta's NLLB-200.**
 
